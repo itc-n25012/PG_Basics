@@ -1,0 +1,4 @@
+print("Python")
+print("こんにちは!")
+
+
