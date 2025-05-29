@@ -1,0 +1,2 @@
+print("animals".index("m"))
+
